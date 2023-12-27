@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Dzaki Arrozaq</h1>
+<h1 align="center">Hi 👏🏻, I'm Muhammad Dzaki Arrozaq</h1>
 <h3 align="center">A passionate Mobile Developer from Indonesia</h3>
 
 
